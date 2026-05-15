@@ -14,4 +14,4 @@ ROC Curve:
 
 Sample predictions:
 
-![image alt](https://github.com/hridibazaman03/220142_Logistic/blob/34a5252667e164d1dc9e066f988c7fb889de51fa/Screenshots/logistic%20sample%20predictions.png)
+![image alt](https://github.com/hridibazaman03/220142_Logistic/blob/abb7b351627347f5c199e737ac9b5fa764aba09f/Screenshots/logistic%20sample%20predictions.png)
