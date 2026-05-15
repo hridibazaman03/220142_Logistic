@@ -2,7 +2,7 @@
 
 Confusion Matrix:
 
-![image alt](https://github.com/hridibazaman03/220142_Logistic/blob/887139323e60f55bdf9d84c99e975a11052b686f/Screenshots/Logistic%20confusion%20matrix.png)
+![image alt](https://github.com/hridibazaman03/220142_Logistic/blob/12944e82e677558f57e844a80fde9e68c9e90625/Screenshots/logistic%20confusion%20matrix.png)
 
 Evaluation metrics: Accuracy, Precision, Recall, F1-score, AUC:
 
