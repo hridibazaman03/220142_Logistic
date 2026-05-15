@@ -10,7 +10,7 @@ Evaluation metrics: Accuracy, Precision, Recall, F1-score, AUC:
 
 ROC Curve:
 
-![image alt](https://github.com/hridibazaman03/220142_Logistic/blob/7f19e35f59df8f6eab12b558e9813bc4fe70a8ce/Screenshots/logistic%20roc%20curve.png)
+![image alt](https://github.com/hridibazaman03/220142_Logistic/blob/e16386f3374cd72f9ccf01be8705d627e023fcfb/Screenshots/ROC%20curve.png)
 
 Sample predictions:
 
