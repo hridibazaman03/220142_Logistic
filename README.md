@@ -6,6 +6,7 @@ Confusion Matrix:
 
 Evaluation metrics: Accuracy, Precision, Recall, F1-score, AUC:
 
+![image alt](https://github.com/hridibazaman03/220142_Logistic/blob/78e7ee2c7dd02fc681f65dd5d0318e1f008e176b/Screenshots/Logistic%20evaluation%20metrics.png)
 
 ROC Curve:
 
